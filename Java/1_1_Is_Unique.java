@@ -1,3 +1,4 @@
+// O(N)
 public class Main {
     public static boolean isUniqueChars(String str) {
         if (str.length() > 128) {
